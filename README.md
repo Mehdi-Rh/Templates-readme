@@ -43,11 +43,11 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Mehdi Rahal**
 
-- GitHub: [@githubhandle](https://github.com/Mehdi-Rh)
-- Twitter: [@twitterhandle](https://twitter.com/MRahal92)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mehdi-rahal22/)
+- GitHub: [@Mehdi-Rh](https://github.com/Mehdi-Rh)
+- Twitter: [@MRahal92](https://twitter.com/MRahal92)
+- LinkedIn: [mehdi-rahal22](https://www.linkedin.com/in/mehdi-rahal22/)
 
 👤 **Author2**
 
