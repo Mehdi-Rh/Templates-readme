@@ -1,3 +1,20 @@
+# LINTERS check & fix
+
+  ## weblint
+  Run: npx hint .
+
+
+  ## Stylelint
+
+  Auto error fix run: 
+npx stylelint "**/*.{css,scss}" --fix
+
+
+  ## EsLint
+
+  Auto error fix run: 
+npx eslint . --fix
+
 # LINTERS install
 
   ## github actions file link 
@@ -24,25 +41,6 @@ npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-i
 
 
 file link: https://github.com/microverseinc/linters-config/blob/master/html-css-js/.eslintrc.json
-
-
-
-# LINTERS check & fix
-
-  ## weblint
-  Run: npx hint .
-
-
-  ## Stylelint
-
-  Auto error fix run: 
-npx stylelint "**/*.{css,scss}" --fix
-
-
-  ## EsLint
-
-  Auto error fix run: 
-npx eslint . --fix
 ____________________________________________________
 
 # GIT COMMANDS
